@@ -6,6 +6,6 @@
 })();//;is imp
 
 ((name)=>{
-    console.log(`Good Morning ${name}!!`);
+    console.log(`Good Morning ${name}!!`);  
     
 })("Siddhi")
