@@ -4,7 +4,7 @@
 //add(6,8)
 function add(num1, num2) {
 //   let result = num1 + num2;
-//   return result;
+ //return result;
 return num1 + num2
 }
 const result = add(7, 8);
